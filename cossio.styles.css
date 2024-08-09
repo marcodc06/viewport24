@@ -302,11 +302,9 @@ img{
 
 /* ---------- ADJUSTING RESPONSIVE IMAGE SIZE ---------- */
 /* --------------- BEGIN RESPONSIVE IMAGE ADJUST SIZES --------------- */
-    @media (max-width: 600px) {
-        img {
-            width: 100%;
-            max-width: 100%;
-        }
+    img {
+        width: 100%;
+        max-width: 100%;
     }
 /* --------------- END RESPONSIVE IMAGE ADJUST SIZES --------------- */
 
